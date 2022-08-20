@@ -2,4 +2,5 @@
 
 ## Please do checkout below projects
 
-- https://shritejk.github.io/Clock/
+- [Calculator](https://shritejk.github.io/Calculator/)
+- [Clock](https://shritejk.github.io/Clock/)
